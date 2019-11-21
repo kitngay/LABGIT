@@ -2,6 +2,7 @@
 void main()
 
 {
+<<<<<<< HEAD
   
 	char Name[30][40] = {"Sam Matthews", "Mary McBeth", "Ying Phakpon","Chai Chanchai", "Yong Boonsith", "Kitti Karndee"}; 
   
@@ -10,6 +11,12 @@ void main()
 	float GPA[30] = {2.73, 2.35, 3.65, 3.24, 1.32, 3.26}; 
  
 	int N = 6, i;
+=======
+  char Name[30][40] = {"Sam Matthews", "Mary McBeth", "Ying Phakpon","Chai Chanchai", "Yong Boonsith", "Kitti Karndee"}; 
+  int ID[30] = {3407, 5302, 5303, 5304, 5305, 5306}; 
+  float GPA[30] = {2.73, 2.35, 3.65, 3.24, 1.32, 3.26}; 
+  int N = 6, i;
+>>>>>>> 1d45672b810ca0bdc2f9e5bbf535f97518e2199c
   int SearchID, found_index; 
  
   
